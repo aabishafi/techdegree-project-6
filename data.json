@@ -1,0 +1,82 @@
+{
+    "projects": [{
+            "id": 0,
+            "project_name": "Public API Requests",
+            "description": "This project uses JavaScript to create an employee directory by communicating with a third-party API - Random User Generator API.",
+            "technologies": ["AJAX (Fetch API)", "Third-party API", "JSON objects"],
+
+            "github_link": "https://github.com/aabishafi/techdegree-project-5",
+            "image_urls": [
+                "../static/img/awesome550.png",
+                "../static/img/awesome1x1200.png",
+                "../static/img/awesome2x1200.png",
+                "../static/img/awesome3x1200.png"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "OOP Game Show App",
+            "description": "This project uses Object-Oriented JavaScript to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
+            "technologies": [
+                "Object-Oriented Programming",
+                "JavaScript Classes",
+                "Array iteration methods",
+                "CSS variables"
+            ],
+
+            "github_link": "https://github.com/aabishafi/techdegree-project4",
+            "image_urls": [
+                "../static/img/phrase550.png",
+                "../static/img/phrase1x1200.png",
+                "../static/img/phrase2x1200.png",
+                "../static/img/phrase3x1200.png"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "This project uses JavaScript and form validation using regular expressions to enhance an interactive registration form.",
+            "technologies": [
+                "vanilla js",
+                "Regular Expressions",
+                "Progressive Enhancement"
+            ],
+
+            "github_link": "https://github.com/aabishafi/techdegree-project3",
+            "image_urls": [
+                "../static/img/validation550.png",
+                "../static/img/validation1x1200.png",
+                "../static/img/validation2x1200.png",
+                "../static/img/validation3x1200.png"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "List Pagination and Filtering",
+            "description": "This project utilizes a progressive enhancement approach to add pagination and search filtering features to a student list page.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+
+            "github_link": "https://github.com/aabishafi/techdegree-proj2",
+            "image_urls": [
+                "../static/img/pagination550.png",
+                "../static/img/pagination1x1200.png",
+                "../static/img/pagination2x1200.png",
+                "../static/img/pagination3x1200.png"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Random Quote Generator",
+            "description": "This project displays a random quote to the page when the user clicks the button.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+
+            "github_link": "https://github.com/aabishafi/A-Random-Quote-Generator",
+            "image_urls": [
+                "../static/img/random550.png",
+                "../static/img/random1200.png",
+                "../static/img/random2x1200.png",
+                "../static/img/random3x1200.png"
+            ]
+        }
+    ]
+}
