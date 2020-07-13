@@ -4,7 +4,7 @@
             "project_name": "Public API Requests",
             "description": "This project uses JavaScript to create an employee directory by communicating with a third-party API - Random User Generator API.",
             "technologies": ["AJAX (Fetch API)", "Third-party API", "JSON objects"],
-
+            "live_link": "https://aabishafi.github.io/techdegree-project-5/",
             "github_link": "https://github.com/aabishafi/techdegree-project-5",
             "image_urls": [
                 "../static/img/awesome550.png",
@@ -23,7 +23,7 @@
                 "Array iteration methods",
                 "CSS variables"
             ],
-
+            "live_link": "https://aabishafi.github.io/techdegree-project4/",
             "github_link": "https://github.com/aabishafi/techdegree-project4",
             "image_urls": [
                 "../static/img/phrase550.png",
@@ -41,7 +41,7 @@
                 "Regular Expressions",
                 "Progressive Enhancement"
             ],
-
+            "live_link": "https://aabishafi.github.io/techdegree-project3/",
             "github_link": "https://github.com/aabishafi/techdegree-project3",
             "image_urls": [
                 "../static/img/validation550.png",
@@ -55,7 +55,7 @@
             "project_name": "List Pagination and Filtering",
             "description": "This project utilizes a progressive enhancement approach to add pagination and search filtering features to a student list page.",
             "technologies": ["JavaScript", "HTML", "CSS"],
-
+            "live_link": "https://aabishafi.github.io/techdegree-proj2/",
             "github_link": "https://github.com/aabishafi/techdegree-proj2",
             "image_urls": [
                 "../static/img/pagination550.png",
@@ -69,7 +69,7 @@
             "project_name": "Random Quote Generator",
             "description": "This project displays a random quote to the page when the user clicks the button.",
             "technologies": ["JavaScript", "HTML", "CSS"],
-
+            "live_link": "https://aabishafi.github.io/A-Random-Quote-Generator/",
             "github_link": "https://github.com/aabishafi/A-Random-Quote-Generator",
             "image_urls": [
                 "../static/img/random550.png",
