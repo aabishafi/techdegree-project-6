@@ -1,10 +1,14 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
 h1,
 h2,
 h3,
 h4,
 h5,
 p {
-    font-family: 'Merriweather', serif;
+    font-family: 'Roboto Mono', monospace;
 }
 
 h5 {
@@ -22,8 +26,8 @@ h6 {
 }
 
 p {
-    font-size: 15px;
-    color: #666;
+    font-size: 1rem;
+    color: rgb(59, 59, 59);
 }
 
 .round {
@@ -31,11 +35,12 @@ p {
 }
 
 .text-light {
-    color: #666;
+    color: rgb(59, 59, 59);
 }
 
 .button {
     background-color: #333;
+    font-size: 1.1rem;
 }
 
 .button:hover {
@@ -60,22 +65,26 @@ a:hover {
     line-height: 0;
 }
 
+.shadow {
+    box-shadow: 4px 0px 10px 0 rgba(0, 0, 0, 0.75) !important;
+    overflow: hidden;
+}
+
 .portfolio-me {
     padding: 20px;
     background: #445069;
     color: #fff;
-    box-shadow: none !important;
+    /*box-shadow: none !important;*/
 }
 
 .portfolio-me p {
-    font-size: 14px;
-    color: #999;
+    font-size: 1rem;
+    color: rgb(255, 255, 255);
 }
 
 .portfolio-me a {
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
-    color: #555;
+    color: rgb(255, 255, 255);
     font-size: 13px;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
@@ -93,7 +102,6 @@ a:hover {
 }
 
 .portfolio-breadcrumb a {
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
     font-size: 13px;
     letter-spacing: 2.5px;
@@ -155,4 +163,14 @@ a:hover {
 
 .portfolio-bio {
     line-height: 25px;
+    margin-right: 2rem;
+}
+
+.error {
+    margin: 2rem;
+}
+
+.error a {
+    max-width: 200px;
+    margin: 3rem 0 5rem 0;
 }
